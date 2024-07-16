@@ -28,29 +28,29 @@ Outside of the digital realm, I'm also an avid photographer with a keen eye for 
 #### Tools
 <img src="https://skillicons.dev/icons?i=git,vscode" />
 
-## Projects
+# Projects
 Here are some of my notable projects:
 
 ### [LeMans100](https://github.com/thekaleabsamuel/Le-mans-100-v1)
-In celebration of 100 years of the endurance race held in LeMans, France this website was built.
+In celebration of 100 years of the endurance race held in Le Mans, France this website was built.
 - Used Javascript to append HTML to the DOM to make a dynamic website based on adding to removing from dataset
 - Stylized the website using CSS with custom colors and fonts to make the visuals match the theme of the website
 - Collaborated with classmate to make all the assets and added functionality, like clicking the cars make an exhaust sound
 
 ### [TechHistoria](https://github.com/Whoami-Voyager/TechHistoria)
-I have always found history and technology fascinating, so I decided to build a timeline that combines both
+I have always found history and technology fascinating, so I decided to build a timeline that combines both.
 - Learned React and component to build a frontend, using props, state, and JSX
 - Styled the HTML within the website using Tailwind, further solidifying my understanding of flexbox and styling
 - Created a JSON backend with a Post feature with a controlled form to send new events to the backend
 
 ### [CarChronicle](https://github.com/Whoami-Voyager/CarChronicle)
-Using a web scraper, I was able to create a reasonably sized database to make an archive of car models and companies
+Using a web scraper, I was able to create a reasonably sized database to make an archive of car models and companies.
 - Used Python to establish classes and class methods, allowing to manipulate the SQLite tables
 - Created a Seed file that uses a web scraper called beautiful soup to fill the database tables
 - Used several Python components to create lists for the user to choose for better UX, and a loading bar for the seed file
 
 ### [InstaVibe](https://github.com/Whoami-Voyager/InstaVibe)
-Creating an Instagram Replica using Flask as a backend to build out my first full-stack project.
+Creating an Instagram replica using Flask as a backend to build out my first full-stack project.
 - First Full-Stack project, using React as our frontend and fetching from a Flask backend
 - Creating a secure Login and Logout, Hashing the passwords in the backend with salt, secure key, not sending any sensitive data to
 the frontend
