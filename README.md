@@ -86,4 +86,3 @@ The term sonder comes to mind when I created this app, with the purpose being to
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whoami-Voyager&layout=donut)
 
----
