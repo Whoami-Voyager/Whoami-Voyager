@@ -1,5 +1,7 @@
 # Hello There 👋
 
+Since August I have not been able to upload much due to my current job at [Groove Subaru](https://www.groovesubaru.com/) as a car salesman. I hope in the future to eventually get a job in software engineering but I wish everyone else luck!
+
 With a foundation in software engineering from Flatiron School's immersive program, I've honed my skills in full-stack web development, mastering languages like Python, JavaScript, and frameworks such as Flask. Through hands-on projects and collaborative environments, I've gained a deep understanding of fundamental programming concepts and advanced technologies, preparing me to tackle real-world challenges with confidence and creativity.
 
 I'm excited to apply my expertise in web development to drive impactful solutions and drive positive change. Whether it's building intuitive user interfaces or optimizing backend systems for performance and scalability, I'm committed to delivering high-quality solutions that exceed expectations.
